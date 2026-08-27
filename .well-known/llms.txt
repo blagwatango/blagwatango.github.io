@@ -1,0 +1,4 @@
+# Watango agent catalog
+# Canonical feed: https://blagwatango.github.io/catalog/llms.txt
+
+See https://blagwatango.github.io/catalog/llms.txt
